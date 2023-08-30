@@ -8,4 +8,4 @@ class Konto:
         return self.girokonto + self.tagesgeld
 
 mein_konto = Konto(800, 50)
-print(mein_konto.kontostand)
+print(mein_konto.kontosand)
